@@ -1,9 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmad Saleem</h1>
 <h3 align="center">A passionate Php Web developer from Pakistan</h3>
- <img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&psig=AOvVaw3HkP9vBatlPU0lsVr3OiGd&ust=1697126185386000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCT4-yt7oEDFQAAAAAdAAAAABAE](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)" />  
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-saleem1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-saleem1" /> </p>
+ <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=ahmad-saleem1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-saleem1](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1696982400&semt=ais)" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
