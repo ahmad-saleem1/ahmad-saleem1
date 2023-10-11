@@ -1,8 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.cdmi.in/courses@2x/web-developments.webp)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Ahmad Saleem</h1>
 <h3 align="center">A passionate Php Web developer from Pakistan</h3>
-
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </p>
+ 
+ 
+<p align="left"> <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1413502914.1696982400&semt=ais)" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
